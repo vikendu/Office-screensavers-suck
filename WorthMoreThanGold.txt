@@ -1,0 +1,9 @@
+Take the following youtube link. Not blocked in office networks!
+Open it in a new desktop on a browser.
+Once the video is playing, right click on video and check "Loop".
+Press F to go fullscreen.
+Mute the video and go to a different desktop and Voila!
+
+https://www.youtube.com/watch?v=4ge-M9nUe2k&feature=youtu.be
+
+Yes a .bat file would be a more elegant solution but unfortunately those don't run around here so I had to be innovative!
